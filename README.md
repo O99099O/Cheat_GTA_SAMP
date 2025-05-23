@@ -97,7 +97,7 @@ Gunakan dengan bijak.
 
 Modifikasi pesan di bagian ini:
 
-sampSendChat("/pm " .. iter_2_0 .. " SEBELUM LU TAG GW DI DC (@POLOSS) TERUS BILANG LU GG GW GA BAKAL SELESAI ")
+sampSendChat("/pm " .. iter_2_0 .. " iSI DENGAN PESAN LU ")
 
 
 
