@@ -11,7 +11,8 @@ Script ini dibuat untuk MoonLoader dan digunakan di GTA San Andreas Multiplayer 
 ## Preview Perintah
 
 ```lua
-/sss 100
+/sss
+```
 
 Mengaktifkan fitur dengan delay 100ms antar pesan.
 
